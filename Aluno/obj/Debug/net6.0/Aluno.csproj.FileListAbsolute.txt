@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\bin\Debug\net6.0\Aluno.exe
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\bin\Debug\net6.0\Aluno.deps.json
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\bin\Debug\net6.0\Aluno.runtimeconfig.json
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\bin\Debug\net6.0\Aluno.dll
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\bin\Debug\net6.0\Aluno.pdb
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\obj\Debug\net6.0\Aluno.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\obj\Debug\net6.0\Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\obj\Debug\net6.0\Aluno.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\obj\Debug\net6.0\Aluno.AssemblyInfo.cs
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\obj\Debug\net6.0\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\obj\Debug\net6.0\Aluno.dll
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\obj\Debug\net6.0\refint\Aluno.dll
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\obj\Debug\net6.0\Aluno.pdb
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\obj\Debug\net6.0\Aluno.genruntimeconfig.cache
+C:\Users\USER\Desktop\UDEMY\CSHARP\Classes, atributos, métodos, membros estáticos\Aluno\Aluno\obj\Debug\net6.0\ref\Aluno.dll
